@@ -1,4 +1,4 @@
-GAME 2048
+                            GAME 2048
                           
   The game is a numerical puzzle with a square in the shape of a 4x4 cell.
 The object of the game is to move the numbered tiles with a grid to combine them to
